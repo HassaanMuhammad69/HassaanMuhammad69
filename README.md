@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Karachi-Pakistan
 * ✉️  You can contact me at [hassaans299@gmail.com](mailto:hassaans299@gmail.com)
-* 🚀  I'm currently working on [AI SaaS](http://https://github.com/HassaanMuhammad69/AI-SaaS)
+* 🚀  I'm currently working on NextJs
 * 🧠  I'm learning NextJs, TypeScript, DSA, JS
 * 🤝  I'm open to collaborating on Any fronted project using NextJS
 * ⚡  I'm secretly Batman... But don't tell anyone.
